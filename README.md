@@ -1,1 +1,1 @@
-# the-addiction-clinic
+# The Addiction Clinic
