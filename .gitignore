@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Mac
+.DS_Store
+
+# Google services
+app/google-services.json
